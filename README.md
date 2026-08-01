@@ -4,6 +4,7 @@
   I'm Afnan!
 </h1>
 
+---
 
 
 ### CSE Undergraduate • Mobile App Developer • AI Enthusiast
