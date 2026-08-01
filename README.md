@@ -2,7 +2,7 @@
   Hey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   I'm Afnan!
-  <div style="margin-top: 10px;"></div>
+  <div style="margin-top: 20px;"></div>
 </h1>
 
 
