@@ -1,4 +1,8 @@
-# Hi there! 👋 I'm Juboraz Afnan Mehmud
+<h1 align="center">
+  Hi there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  I'm Juboraz Afnan Mehmud
+</h1>
 
 ### CSE Undergraduate • Mobile App Developer • AI Enthusiast
 
@@ -78,6 +82,8 @@ The goal is to help pet lovers connect, share moments, discover nearby services,
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### Frameworks & Tools
 
