@@ -30,7 +30,7 @@ Currently, I'm expanding my skills in Unity while continuing to build mobile app
 
 ## 💼 Experience
 
-### Creative Writer — Upwork
+### Creative Writer | Upwork
 **2023 – Present**
 
 - Worked with international clients for 3+ years.
@@ -49,7 +49,7 @@ Expected Graduation: **2027**
 
 ## 🏆 Achievements
 
-- 4th Runner-Up — **CSE Project Show Spring 2026**
+- 4th Runner-Up | **CSE Project Show Spring 2026**
   - Microprocessors & Microcontrollers Lab
 
 ---
@@ -65,15 +65,15 @@ Expected Graduation: **2027**
 
 ## 🌟 Featured Project
 
-# 🐾 PetTown
+#PetTown
 
-PetTown is a social platform designed exclusively for pet owners.
+**PetTown** is a social platform built exclusively for pet lovers.
 
-The goal is to help pet lovers connect, share moments, discover nearby services, and build a community centered around their pets.
+Designed with a modern, community-driven experience, PetTown helps users connect with other pet owners, share moments, discover nearby pet-friendly services, and build communities around their pets.
 
-⭐ Check out the repository and follow the project's progress!
+🚀 **Repository:** [PetTown](https://github.com/AfnanAnikk/Pet-Town-SE-Lab-Spring-26-)
 
----
+⭐ I'm actively developing PetTown and continuously adding new features.
 
 ## ⚙️ Technologies
 
