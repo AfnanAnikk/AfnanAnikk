@@ -4,11 +4,6 @@
   I'm Afnan!
   
 </h1>
-<div style="margin-top: 20px;"></div>
-
-
-
-
 
 
 ### CSE Undergraduate • Mobile App Developer • AI Enthusiast
