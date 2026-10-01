@@ -51,6 +51,7 @@ Expected Graduation: **2027**
 
 - 4th Runner-Up | **CSE Project Show Spring 2026**
   - Microprocessors & Microcontrollers Lab
+- Finalist | **BUP Hackathon 2026**
 
 ---
 
@@ -72,7 +73,7 @@ Expected Graduation: **2027**
 Designed with a modern, community-driven experience, PetTown helps users connect with other pet owners, share moments, discover nearby pet-friendly services, and build communities around their pets.
 
 🚀 **Repository:** [PetTown](https://github.com/AfnanAnikk/Pet-Town-SE-Lab-Spring-26-)
-
+   **Video Link:** [Pet Town Demonstration](https://youtu.be/Ypr44QxFkLE?si=7k0V_aSLvifa0-z4)
 ⭐ I'm actively developing PetTown and continuously adding new features.
 
 ## ⚙️ Technologies
