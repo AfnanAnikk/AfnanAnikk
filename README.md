@@ -31,9 +31,9 @@ Currently, I'm expanding my skills in Unity while continuing to build mobile app
 ## 💼 Experience
 
 ### Creative Writer | Upwork
-**2023 – Present**
+**2023 - Present**
 
-- Worked with international clients for 3+ years.
+- Worked with international clients for 3+ years, building long-term client relationships.
 - Specialized in engaging educational and entertainment content.
 - Produced long-form and short-form scripts across multiple niches.
 
@@ -66,13 +66,13 @@ Expected Graduation: **2027**
 
 ## 🌟 Featured Project
 
-#PetTown
+### PetTown
 
-**PetTown** is a social platform built exclusively for pet lovers.
+**PetTown** is a social platform built with Flutter exclusively for pet lovers.
 
-Designed with a modern, community-driven experience, PetTown helps users connect with other pet owners, share moments, discover nearby pet-friendly services, and build communities around their pets.
+Designed with a modern, community-driven experience, PetTown helps users connect with other pet owners, share moments, discover nearby pet-friendly services (like vets, salons, adoption, and marketplaces), and build communities around their pets—complete with a dedicated controller admin panel.
 
-🚀 **Repository:** [PetTown](https://github.com/AfnanAnikk/Pet-Town-SE-Lab-Spring-26-)  
+🚀 **Repository:** [PetTown](https://github.com/AfnanAnikk/Pet-Town)  
 🔗 **Video Link:** [Pet Town Demonstration](https://youtu.be/Ypr44QxFkLE?si=7k0V_aSLvifa0-z4)  
 ⭐ I'm actively developing PetTown and continuously adding new features.
 
@@ -86,6 +86,7 @@ Designed with a modern, community-driven experience, PetTown helps users connect
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ### Frameworks & Tools
@@ -94,6 +95,7 @@ Designed with a modern, community-driven experience, PetTown helps users connect
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
