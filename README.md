@@ -50,7 +50,6 @@ Expected Graduation: **2027**
 ## 🏆 Achievements
 
 - 4th Runner-Up | **CSE Project Show Spring 2026**
-  - Microprocessors & Microcontrollers Lab
 - Finalist | **BUP Hackathon 2026**
 
 ---
