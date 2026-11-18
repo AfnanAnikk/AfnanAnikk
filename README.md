@@ -65,15 +65,14 @@ Expected Graduation: **2027**
 
 ## 🌟 Featured Project
 
-### PetTown
+### Pet Town
 
-**PetTown** is a social platform built with Flutter exclusively for pet lovers.
+**Pet Town** is a social platform built with Flutter exclusively for pet lovers.
 
 Designed with a modern, community-driven experience, PetTown helps users connect with other pet owners, share moments, discover nearby pet-friendly services (like vets, salons, adoption, and marketplaces), and build communities around their pets, complete with a dedicated controller admin panel.
 
 🚀 **Repository:** [PetTown](https://github.com/AfnanAnikk/Pet-Town)  
 🔗 **Video Link:** [Pet Town Demonstration](https://youtu.be/Ypr44QxFkLE?si=7k0V_aSLvifa0-z4)  
-⭐ I'm actively developing PetTown and continuously adding new features.
 
 ## ⚙️ Technologies
 
